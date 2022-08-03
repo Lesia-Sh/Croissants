@@ -15,3 +15,9 @@ p {
   color: #270f0a;
   background-color: #eebc85;
 }
+.navbar-brand {
+  font-size: 30px !important;
+}
+.nav-item {
+  font-size: 30px !important;
+}
