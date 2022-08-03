@@ -1,9 +1,17 @@
-/* bode {
+body {
   font-family: "Dancing Script", cursive !important;
-
-  font-family: "Fredericka the Great", cursive !important;
-} */
+  background-color: #ffcb8b !important;
+}
+h1 {
+  font-weight: 800 !important;
+  font-size: 100px !important;
+}
+p {
+  font-size: 40px !important;
+}
 .croissants-wrapper {
   max-width: 800px !important;
   margin: 30px auto;
+  color: #270f0a;
+  background-color: #eebc85;
 }
