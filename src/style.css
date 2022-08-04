@@ -21,3 +21,18 @@ p {
 .nav-item {
   font-size: 30px !important;
 }
+@media (max-width: 560px) {
+  h1 {
+    font-size: 40px !important;
+  }
+  p {
+    font-size: 20px !important;
+  }
+
+  .navbar-brand {
+    font-size: 15px !important;
+  }
+  .nav-item {
+    font-size: 15px !important;
+  }
+}
